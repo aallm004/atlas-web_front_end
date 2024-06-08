@@ -419,7 +419,7 @@ a:active {
     color: var(--color-primary);
 }
 
-.navbar--menu {
+.navbar-menu {
     float: right;
 }
 
