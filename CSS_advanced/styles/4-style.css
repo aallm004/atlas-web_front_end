@@ -3,7 +3,7 @@
     --font-family-title: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-body {
+body, a {
     font-family: var(--font-family-base);
 }
 
