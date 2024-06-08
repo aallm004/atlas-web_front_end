@@ -47,6 +47,19 @@ a {
     color: var(--color-primary);
 }
 
+a:visited {
+    font-style: italic;
+}
+
+a:active {
+    background-color: var(--color-light-gray);
+
+}
+
+a:hover {
+    text-decoration: underline;
+
+}
 
 .section-header {
     text-align: var(--section-header-align);
