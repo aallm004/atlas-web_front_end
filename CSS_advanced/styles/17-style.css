@@ -420,7 +420,7 @@ a:active {
 }
 
 .section {
-    padding: var(--sectoin-padding);
+    padding: var(--section-padding);
 }
 
 .section-header {
