@@ -502,7 +502,9 @@ a:active {
 .card-testimonial {
     text-align: center;
 }
-
+.card-testimonial .card-quote {
+    position: relative;
+}
 .card-testimonial .card-quote::before
 {
     content: "\201c";
